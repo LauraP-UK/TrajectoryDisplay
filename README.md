@@ -4,7 +4,7 @@ This project has been extracted from a larger project in order to showcase rende
 It is not up to date with current Minecraft specs, it is not expected to compile in its current state, due to it being an older version of the larger project.<br>
 
 Examples of this project in action can be seen here:<br>
-Simple arc for consistent velocity items (Snowballs, Enderpearls, Eggs...): https://youtu.be/SrXF0cJ690g?si=EWIgUiFxC4dubZRs<br>
+Simple Arc for consistent velocity items (Snowballs, Enderpearls, Eggs...): https://youtu.be/SrXF0cJ690g?si=EWIgUiFxC4dubZRs<br>
 Dynamic Arc for variable velocity items (Arrows): https://youtu.be/zpDy1PJ6yes?si=FJqR8IObU4jlk2rh<br>
 <br>
 Notes:<br>
