@@ -4,5 +4,6 @@ This project has been extracted from a larger project in order to showcase rende
 It is not up to date with current Minecraft specs, it is not expected to compile in its current state, due to it being an older version of the larger project.
 
 Examples of this project in action can be seen here:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SrXF0cJ690g?si=9AM6gp85fdU_63oK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/SrXF0cJ690g?si=EWIgUiFxC4dubZRs
+https://youtu.be/zpDy1PJ6yes?si=FJqR8IObU4jlk2rh
 
